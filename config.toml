@@ -5,6 +5,7 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
+ignorecache = true
 
 [params]
   title       = "Hugo Casper Two"
