@@ -10,6 +10,16 @@ html,body {
     font-size: 1.11rem;
     font-weight: bold;
   }
+
+  .hero-body .container {
+    max-width: 700px;
+  }
+  .hero-body .subtitle {
+    color: hsl(192,17%,99%) !important;
+    padding-top: 2rem;
+    line-height: 1.5;
+  }
+
   .articles {
     margin: 5rem 0;
   }
